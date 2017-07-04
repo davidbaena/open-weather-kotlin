@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinBook</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="city_zipcode">Zip Code</string>
+</resources>
